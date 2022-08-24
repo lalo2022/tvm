@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:0, MELIPILLA _TV
+#EXTGRP:CHILE
+https://tv.tvcontrolcp.com:1936/ranchero2/ranchero2/playlist.m3u8
+
+#EXTINF:0, MELIPILLA _TV2
+#EXTGRP:CHILE
+rtmp://tv.tvcontrolcp.com:1935/ranchero2/ranchero2
+
+#EXTINF:0, MELIPILLA _TV3
+#EXTGRP:CHILE
+rtmps://tv.tvcontrolcp.com:1936/ranchero2/ranchero2
+
+#EXTINF:0, MELIPILLA _TV4
+#EXTGRP:CHILE
+rtsp://tv.tvcontrolcp.com/ranchero2/ranchero2
+
+#EXTINF:0, MELIPILLA _TV5
+#EXTGRP:CHILE
+https://tv.tvcontrolcp.com:2020/tunein/ranchero2/v/m3u8
+
+#EXTINF:0, MELIPILLA _TV6
+#EXTGRP:CHILE
+https://tv.tvcontrolcp.com:1936/ranchero2/ranchero2/playlist.m3u8
+
+#EXTINF:0, MELIPILLA _TV7
+#EXTGRP:CHILE
+rtsp://tv.tvcontrolcp.com/ranchero2/ranchero2
+
+#EXTINF:0, MELIPILLA _TV8
+#EXTGRP:CHILE
+https://tv.tvcontrolcp.com:1936/ranchero2/ranchero2/playlist.m3u8
+
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39811
+#EXTINF:0,CHI || Mega
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39787
+#EXTINF:0,CHI || Mega FHD (PS)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39791
+#EXTINF:0,CHI || Mega HD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39788
+#EXTINF:0,CHI || Mega HD (PS)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39790
+#EXTINF:0,CHI || Mega SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39789
+
+#EXTINF:0,CHI || 24 Horas-
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39818
+#EXTINF:0,CHI || 24 Horas hd
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/68502
+
+#EXTINF:0,CHI || Canal 13  SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39796
+#EXTINF:0,CHI || Canal 13 FHD (E)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39793
+#EXTINF:0,CHI || Canal 13 FHD (U)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39795
+#EXTINF:0,CHI || Canal 13 HD (E)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39794
+#EXTINF:0,CHI || Canal 13 HD (U)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39792
+#EXTINF:0,CHI || 13i HD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39797
+#EXTINF:0,CHI || Chilevision SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39804
+#EXTINF:0,CHI || Chilevisión FHD (UP)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39807
+#EXTINF:0,CHI || Chilevisión HD (UP)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39806
+#EXTINF:0,CHI || Chilevisión HD *
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39805
+#EXTINF:0,CHI || CNN CHILE HD (EXCLUSIVO)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39785
+#EXTINF:0,CHI || CNN CHILE SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39786
+
+#EXTINF:0,CHI || La Red  SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39810
+#EXTINF:0,CHI || La Red FHD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39812
+#EXTINF:0,CHI || La Red HD
+
+#EXTINF:0,CHI || Teletrak HD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39814
+#EXTINF:0,CHI || Teletrak HD (Directo)
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/10125
+#EXTINF:0,CHI || Teletrak SD
+#EXTGRP:CHILE
+http://newultra.xyz:8080/vm5t26k5/8e3jd5m8/39815
